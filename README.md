@@ -816,8 +816,7 @@ or <mark style=background:#a4a7ab!important>home/findAPlayer/{id}</mark>
 
 > ## Exception Handling :-
 
-### In this project,I have used both types of exception handling i.e., exception handling on local level with the use of **try-catch** block and on global level 
-using  *@ControllerAdvice* annotation.See some of the test results-
+### In this project,I have used both types of exception handling i.e., exception handling on local level with the use of **try-catch** block and on global level using  *@ControllerAdvice* annotation.See some of the test results-
 
 1. ### Don't worry if you have used a wrong request method-
 
