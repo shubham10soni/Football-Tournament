@@ -695,7 +695,7 @@ localhost:8080/home/playersByTeamId/2
 
 ---
 
-### :warning:Please read this note before testing update operation :point_right: [here](#note)
+### :warning:Please read this note before testing update operation :point_right: [here](#note--)
 
 ### 12. Testing-<mark style=background:#a4a7ab!important>**home/updateTeam/{id}**</mark> Endpoint :-
 
