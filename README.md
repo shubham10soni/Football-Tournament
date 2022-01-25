@@ -68,7 +68,7 @@ http://localhost:8080/swagger-ui/
 
 - ### Swagger UI :-
 
-  ![list_teams](img/swagger_ui.png)
+  ![list_teams](img/swagger_ui.PNG)
 
 ---
 
@@ -643,7 +643,7 @@ localhost:8080/home/teamByPlayerId/7
 
 - ### Test Results :-
 
-![team_by_player_id](img/team_by_player_id.png)
+![team_by_player_id](img/team_by_player_id.PNG)
 
 ---
 
@@ -747,7 +747,7 @@ localhost:8080/home/updateTeam/2
 
 - ### Test Results :-
 
-![update_team](img/update_team.png)
+![update_team](img/update_team.PNG)
 
 :white_check_mark:Confirm the result using <mark style=background:#a4a7ab!important>/home/listTeams</mark>
 or <mark style=background:#a4a7ab!important>home/findATeam/{team_id}</mark>
@@ -807,7 +807,7 @@ localhost:8080/home/updatePlayer/7
 
 - ### Test Results :-
 
-![update_player](img/update_player.png)
+![update_player](img/update_player.PNG)
 
 :white_check_mark:Confirm the result using <mark style=background:#a4a7ab!important>/home/listPlayers</mark>
 or <mark style=background:#a4a7ab!important>home/findAPlayer/{id}</mark>
@@ -820,14 +820,14 @@ or <mark style=background:#a4a7ab!important>home/findAPlayer/{id}</mark>
 
 1. ### Don't worry if you have used a wrong request method-
 
-![method_exception](img/method_exception.png)
+![method_exception](img/method_exception.PNG)
 
 2. ### Don't worry if the ID you entered doesn't exist-
 
-![no_value](img/no_value.png)
+![no_value](img/no_value.PNG)
 
 3. ### If you're on the wrong page or the table has no value, don't worry-
 
-![page_error](img/page_error.png)
+![page_error](img/page_error.PNG)
 
 ---
