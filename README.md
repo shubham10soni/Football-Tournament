@@ -115,7 +115,7 @@ http://localhost:8080/swagger-ui/
 
 ### 1. Teams
 
-```json
+```
 {
 created_at	string($date-time)
 id	integer($int64)
@@ -127,7 +127,7 @@ updated_at	string($date-time)
 
 ### 2. Players
 
-```json
+```
 {
 age	integer($int32)
 created_at	string($date-time)
@@ -169,7 +169,7 @@ updated_at	string($date-time)
 
 - ### Format-
 
-```json
+```
 {
   "data": [],
   "message": "message",
@@ -216,7 +216,7 @@ For **Teams** Model -
 
 For **Players** Model -
 
-```json
+```
 {
   "age": Enter integer value ,
   "name": "Enter string value",
@@ -230,7 +230,7 @@ For **Players** Model -
 
   1. For Example,If you want to update player with player **Id** = 5 use <mark style=background:#a4a7ab!important>home/findAPlayer/5</mark>.and copy the result.
 
-```json
+```
 {
   "id": 5,
   "name": "shubham yadav",
@@ -243,7 +243,7 @@ For **Players** Model -
 
 2. Now use <mark style=background:#a4a7ab!important>home/updatePlayer/5</mark> and paste the copied result (from **Step 1**) in the raw json request body text area in **POSTMAN**.Remove the auto generated Fields like(**id**,**created_at**,**updated_at**).
 
-```json
+```
 {
   "name": "shubham yadav",
   "age": 24,
@@ -253,7 +253,7 @@ For **Players** Model -
 
 3. Change the value of only those parameters which you want to update.Now click on **Send** button!
 
-```json
+```
 {
   "name": "shubham singh",
   "age": 24,
@@ -440,7 +440,7 @@ localhost:8080/home/findATeam/2
 
   just use url like this in **POSTMAN** and click **send** button.
 
-```url
+```
 localhost:8080/home/findAPlayer/7
 ```
 
@@ -462,7 +462,7 @@ localhost:8080/home/findAPlayer/7
 
   just use url like this in **POSTMAN** and click **send** button.
 
-```url
+```
 localhost:8080/home/listTeams
 ```
 
@@ -472,7 +472,7 @@ localhost:8080/home/listTeams
 
 eg,
 
-```json
+```
 localhost:8080/home/listTeams?page=0&size=2
 ```
 
@@ -547,7 +547,7 @@ here , page number = 0 & size = 2
 
   just use url like this in **POSTMAN** and click **send** button.
 
-```url
+```
 localhost:8080/home/listPlayers
 ```
 
@@ -557,7 +557,7 @@ localhost:8080/home/listPlayers
 
 eg,
 
-```json
+```
 localhost:8080/home/listPlayers?page=0&size=2
 ```
 
