@@ -803,7 +803,7 @@ localhost:8080/home/updatePlayer/7
 }
 ```
 
-:tada: Team is Succesfully updated! You can confirm it by using <mark style=background:#a4a7ab!important>home/findAPlayer/7</mark>.
+:tada: Player is Succesfully updated! You can confirm it by using <mark style=background:#a4a7ab!important>home/findAPlayer/7</mark>.
 
 - ### Test Results :-
 
