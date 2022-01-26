@@ -666,7 +666,7 @@ localhost:8080/home/playersByTeamId/2
 
 - ### Test Results :-
 
-![players_by_team_id](img/players_by_team_id.png)
+![players_by_team_id](img/players_by_team_id.PNG)
 
 ```json
 {
